@@ -1,0 +1,16 @@
+.Test {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px; /* Задайте нужную ширину */
+    margin: auto; /* Чтобы выровнять по центру, если нужно */
+    padding: 20px; /* Пример значения для отступов */
+}
+
+h5 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-top: 20px;
+    margin-bottom: 2px;
+}

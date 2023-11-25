@@ -1,0 +1,14 @@
+.RouteButton {
+    display: flex;
+    flex-direction: column;
+    max-width: 0px; /* Задайте нужную ширину */
+    margin: auto; /* Чтобы выровнять по центру, если нужно */
+}
+  
+.Button {
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+  
