@@ -1,0 +1,26 @@
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\obj\Debug\DM3.csprojResolveAssemblyReference.cache
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\obj\Debug\DM3.MainForm.resources
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\obj\Debug\DM3.csproj.GenerateResource.Cache
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\bin\Debug\DM3.exe.config
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\bin\Debug\DM3.exe
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\bin\Debug\DM3.pdb
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\obj\Debug\DM3.exe
+C:\Users\user2\Documents\SharpDevelop Projects\DM3\DM3\obj\Debug\DM3.pdb
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\bin\Debug\DM3.exe.config
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\bin\Debug\DM3.exe
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\bin\Debug\DM3.pdb
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.csproj.AssemblyReference.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.MainForm.resources
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.csproj.GenerateResource.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.csproj.CoreCompileInputs.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.exe
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3\DM3\obj\Debug\DM3.pdb
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\bin\Debug\DM3.exe.config
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\bin\Debug\DM3.exe
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\bin\Debug\DM3.pdb
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.csproj.AssemblyReference.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.MainForm.resources
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.csproj.GenerateResource.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.csproj.CoreCompileInputs.cache
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.exe
+C:\Users\romaa\DT\Прокты\SharpDevelop Projects копия\DM3 v1\DM3\obj\Debug\DM3.pdb
